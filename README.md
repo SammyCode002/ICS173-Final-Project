@@ -1,41 +1,40 @@
 # ICS 173: Data Science Final Project
 
-## Project Overview
+Data Science Salary Analysis 
+Project Overview
+This project involves a comprehensive analysis of data science salaries. The analysis is performed using a dataset of salary records in the data science field, encompassing various roles, experience levels, and company sizes. The primary goal is to uncover insights into the factors that influence data science salaries and to visualize these insights through various plots.
 
-This repository contains my final project for the ICS 173: Introduction to Data Science course. The project involves data visualization and analysis of a dataset focused on tree characteristics.
+Repository Contents
+data_science_salaries_analysis.ipynb: Jupyter Notebook containing all the data analysis and visualization code.
+ds_salaries.csv: Dataset used for the analysis.
+README.md: This file, describing the project and repository.
+Data Analysis and Visualizations
+The project includes the following key analyses:
 
-## Dataset Description
+Distribution of salaries in the data science field.
+Average salaries by experience level.
+Relationship between remote work ratio and salary.
+Number of jobs by company size.
+Top job titles by average salary.
+Each analysis is accompanied by relevant visualizations like histograms, bar charts, and scatter plots.
 
-The dataset used in this project relates to tree measurements and characteristics. It includes various columns such as species, light intensity, soil type, and other ecological measurements. The dataset is instrumental in understanding tree diversity and ecological patterns.
+Technologies Used
+Python
+Pandas (for data manipulation)
+Matplotlib and Seaborn (for data visualization)
+Setup and Installation
+To run this project locally, follow these steps:
 
-## Files in the Repository
+Clone the repository.
+Ensure Python is installed on your system.
+Install required Python packages: pandas, matplotlib, seaborn.
+Open the data_science_salaries_analysis.ipynb notebook in a Jupyter environment and run the cells.
+How to Contribute
+Contributions to the project are welcome! To contribute:
 
-- `ICS173FinalProject.ipynb`: The Jupyter Notebook containing the data analysis and visualization code.
-- `Cleaned_Tree_Dataset.csv`: The dataset file used for the analysis.
-
-## Analysis and Visualizations
-
-The project includes a visualization (bar chart) that explores the distribution of different tree species within the dataset. This analysis is critical in understanding species diversity and prevalence.
-
-## How to Run the Notebook
-
-To run the notebook, you will need to have Python installed along with the following packages:
-- pandas
-- matplotlib
-- seaborn
-
-You can install these packages using pip:
-pip install pandas matplotlib seaborn
-Then, you can run the Jupyter Notebook using:
-jupyter notebook ICS173FinalProject.ipynb
-
-## Findings
-
-The analysis provides insights into the most common tree species in the dataset, indicating trends in species distribution. This can be a starting point for further ecological or environmental studies.
-
-## Future Work
-
-Future work could involve a more detailed analysis of the relationship between tree species and environmental factors, such as light intensity and soil type. Advanced statistical methods could also be applied to predict ecological trends.
-
+Fork the repository.
+Create a new branch for your feature.
+Add your feature or improvement.
+Submit a pull request with a description of your changes.
 
 Thank you for checking out my data science project!
