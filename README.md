@@ -35,6 +35,5 @@ Contributions to the project are welcome! To contribute:
 Fork the repository.
 Create a new branch for your feature.
 Add your feature or improvement.
-Submit a pull request with a description of your changes.
 
 Thank you for checking out my data science project!
