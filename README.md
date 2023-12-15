@@ -38,4 +38,4 @@ Add your feature or improvement.
 
 Thank you for checking out my data science project!
 ![datascience salary](https://github.com/SammyCode002/ICS173-Final-Project/assets/139438647/9baa4f63-951e-4602-95a8-2a9b490cc79e)
-![examplebathymetry](https://github.com/SammyCode002/ICS173-Final-Project/assets/139438647/56504b68-b11f-419a-92fd-6d99c5429f9a)
+
